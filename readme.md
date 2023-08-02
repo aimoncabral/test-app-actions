@@ -12,5 +12,3 @@ You need to write the following commands on the terminal screen so that you can 
 3. npm install
 4. npm start
 ```
-
-The application is running on [localhost](http://localhost:3000).
